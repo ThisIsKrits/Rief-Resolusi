@@ -4,5 +4,6 @@ RENCANA RESOLUSI RIEF
 -Belajar PHP OOP
 -Belajar PHP MVC
 -Belajar PHP FRAMEWORK
- *BELAJAR PHP LARAVEL
--Belajar Javascript Fundamental
+ *Belajar PHP LARAVEL
+ *Belajar PHP Codeigniter
+-Belajar Javascript
