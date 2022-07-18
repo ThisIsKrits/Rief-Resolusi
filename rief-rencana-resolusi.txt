@@ -6,3 +6,4 @@ RENCANA RESOLUSI RIEF
 -Belajar PHP FRAMEWORK
  *Belajar PHP LARAVEL
  *Belajar PHP Codeigniter
+-Belajar Javascript
