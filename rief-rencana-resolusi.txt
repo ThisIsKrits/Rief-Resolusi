@@ -1,5 +1,6 @@
 RENCANA RESOLUSI RIEF
 
+-Fundamental PHP
 -Belajar PHP OOP
 -Belajar PHP MVC
 -Belajar PHP FRAMEWORK
